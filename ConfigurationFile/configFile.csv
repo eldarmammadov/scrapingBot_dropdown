@@ -1,0 +1,18 @@
+{"URLGoogleSheet":
+	"https://docs.google.com/spreadsheets/d/1hpK3ziZq9QrdBi1FYnDy4SPKiciyo4UBwJBcHs0g2Rw/edit#gid=487846033",
+
+"FloatingBlueRecords":
+	["Release Title","d","UPC","ISRC","Genre","Priority","COVER?","Country"],
+
+"LolifeSoundsMusic":
+	["Release Title","d","UPC","Radio ISRC","Genre","Priority","Radio/Extended","Country"],
+
+"DeepCloudMusic":
+	["Release Title","d","UPC","ISRC","Genre","Priority","COVER?","Country"],
+
+"DayDoseOfHouse":
+	["Release Title","d","UPC","Radio ISRC","Genre","Priority","Radio/Extended","Country"],
+
+"output_file":
+	["Artist Name","Release Date","UPC","ISRC","Genre","Priority","Radio/Extended","Country"]
+}
